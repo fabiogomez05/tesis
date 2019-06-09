@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "897514022505",
+    "firebase_url": "https://tabbar-4ae6e.firebaseio.com",
+    "project_id": "tabbar-4ae6e",
+    "storage_bucket": "tabbar-4ae6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897514022505:android:cedfddc4190edd6a",
+        "android_client_info": {
+          "package_name": "tabbar.tabbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897514022505-apik7ef8o2vkjamamjnfupbhnj2cmlk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv5nfiw1N9nvsIJohsVfMUuIeAXUFqlqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897514022505-apik7ef8o2vkjamamjnfupbhnj2cmlk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
